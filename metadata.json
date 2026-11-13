@@ -1,0 +1,6 @@
+{
+  "name": "Nowa's Place",
+  "description": "Contemporary streetwear and everyday essentials boutique — browse the curated collection and order seamlessly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
